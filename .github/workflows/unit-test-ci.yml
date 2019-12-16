@@ -4,8 +4,7 @@
    pull_request:
      branches:
        - master
-
- push:
+   push:
      branches:
        - moose-actions
 
